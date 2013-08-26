@@ -21,7 +21,7 @@
 				[college] => Duncan College
 				[major] => Computer Science
 				[address] => Duncan College MS-715, 1601 Rice Blvd, , TX 77005-4401
-				[email] => mschurr@rice.edu
+				[email] => @rice.edu
 				[mailto] => mailto:mschurr@rice.edu
 			)
 		)
@@ -38,7 +38,7 @@
 					[office] => 3094 Duncan Hall
 					[phone] => 713-348-5661
 					[homepage] => http://www.cs.rice.edu/~devika/
-					[email] => devika@rice.edu
+					[email] => @rice.edu
 					[mailto] => mailto:devika@rice.edu
 				)
 		)
